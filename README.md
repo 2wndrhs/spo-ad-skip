@@ -8,7 +8,7 @@
 - 스포티비 관련 채널들의 유튜브 영상을 볼 때 영상 속 광고가 끝나는 시점인 8초로 재생 시간을 이동시킵니다.
 - 현재 "SPOTV", "스포일러" 채널에 적용
   
-## 🔗 다운로드 링크
+## 다운로드
 [다운로드 링크](https://github.com/2wndrhs/spo-ad-skip/releases/download/v1.0.0/spo-ad-skip.zip)
 
   
