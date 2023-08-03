@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "spo-ad-skip",
+  "description": "스포티비 관련 채널들의 유튜브 광고(신협)를 스킵합니다.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["*://www.youtube.com/*"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "128": "images/spo-ad-skip.png"
+  }
+}
