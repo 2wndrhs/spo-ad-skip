@@ -9,11 +9,4 @@
 - 현재 "SPOTV", "스포일러" 채널에 적용
   
 ## 다운로드
-[다운로드 링크](https://github.com/2wndrhs/spo-ad-skip/releases/download/v1.0.0/spo-ad-skip.zip)
-
-## 설치방법
-1. 다운로드 받은 압축 파일을 압축 해제합니다.
-2. 주소창에 `chrome://extensions/`를 입력하여 크롬 확장 프로그램 페이지로 이동합니다.
-3. 우측 상단의 `개발자 모드` 버튼을 눌러 개발자 모드를 활성화시킵니다.
-4. 개발자 모드 활성화 후 좌측 상단에 보이는 `압축해제된 확장 프로그램을 로드합니다.` 버튼을 눌러 압축 해제한 `spo-ad-skip` 폴더를 선택합니다.
-5. 확장 프로그램이 추가되었다면 [SPOTV](https://www.youtube.com/@SPOTV)에서 정상적으로 동작하는지 확인합니다.
+[크롬 웹스토어 링크](https://chrome.google.com/webstore/detail/spo-ad-skip/inhlkebiedclgcbfogoekgcbinjcpnfo?hl=ko)
